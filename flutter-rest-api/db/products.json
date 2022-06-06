@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "title": "Wacko Guaco Beef",
+    "short_desc": "Il est de retour !",
+    "image": "01_beef.jpg",
+    "star": "4.5",
+    "body": "Mmm, une délicieuse tranche de bœuf, avec du cheddar, de la salade, des oignons croustillants, une sauce pico de gallo et du guacamole. Tout cela dans un pain aux graines de lin et de sésame. Qu'est-ce que c'est boooooooon !"
+  },
+  {
+    "id": 2,
+    "title": "Wacko Guaco Chicken",
+    "short_desc": "Il est de retour !",
+    "image": "02_chicken.jpg",
+    "star": "4.3",
+    "body": "Mmm, un délicieux filet de poulet, avec du cheddar, de la salade, des oignons croustillants, une sauce pico de gallo et du guacamole. Tout cela dans un pain aux graines de lin et de sésame. Qu'est-ce que c'est boooooooon !"
+  },
+  {
+    "id": 3,
+    "title": "Wacko Guaco Veggie",
+    "short_desc": "Il est de retour !",
+    "image": "03_Veggie.jpg",
+    "star": "4.9",
+    "body": "Mmm, un délicieux filet végé, avec du cheddar, de la salade, des oignons croustillants, une sauce pico de gallo et du guacamole. Tout cela dans un pain aux graines de lin et de sésame. Qu'est-ce que c'est boooooooon !"
+  },
+  {
+    "id": 4,
+    "title": "Maestro Generous Jack Junior",
+    "short_desc": "Il est de retour !",
+    "image": "McDo_GenerousJack-productvisual.jpg",
+    "star": "4.8",
+    "body": "Le Generous Jack Junior fait son entrée chez McDo ! C'est le petit frère du Generous Jack. Vous avez toujours ce que vous adorez dans le Generous Jack : le fromage Maredsous, une mayonnaise au citron ultra fraîche, des tranches de lard croquant et des légumes frais. Mais cette fois, avec une seule tranche de bœuf. Idéal si vous n'avez qu'une petite faim, mais une grande envie de ce burger Maestro. Parce que la générosité, ça n'a rien à voir avec la taille !"
+  },
+  {
+    "id": 5,
+    "title": "Maestro Generous Jack",
+    "short_desc": "Il est de retour !",
+    "image": "Hero_GenerousJack.png",
+    "star": "4.9",
+    "body": "Laissez votre ventre choisir ! Que diriez-vous du Generous Jack avec sa recette améliorée ? Avec deux tranches de bœuf plus épaisses, plus généreuses, ce qui fait plus de viande qu'avant ! Mais aussi le délicieux fromage Maredsous ! Sans oublier les longues tranches de lard bien croquant, les légumes frais et une double portion de mayonnaise au citron. Le tout entre deux pains briochés, aux graines de sésame et de lin, parfaitement dorés."
+  },
+  {
+    "id": 6,
+    "title": "Big Mac®",
+    "short_desc": "Il est de retour !",
+    "image": "Hero_BigMac.png",
+    "star": "4.6",
+    "body": "Ses deux viandes 100% pur bœuf, son cheddar fondu, ses oignons, ses cornichons, son lit de salade et sa sauce inimitable, font du Big Mac® un sandwich culte et indémodable."
+  },
+  {
+    "id": 7,
+    "title": "Hamburger",
+    "short_desc": "Un indémodable, tout simplement",
+    "image": "de-hamburger.png",
+    "star": "3.2",
+    "body": "Une viande 100% pur bœuf, une rondelle de cornichon, des oignons, de la moutarde douce et du ketchup, retrouvez tout l’esprit de McDonald’s® dans ce classique au goût inimitable."
+  },
+  {
+    "id": 8,
+    "title": "Cheeseburger",
+    "short_desc": "Le 'Cheese' pour les intimes",
+    "image": "de-cheeseburger.png",
+    "star": "3.5",
+    "body": "Une viande 100% pur bœuf, une tranche de cheddar fondante, une rondelle de cornichon, des oignons, du ketchup et de la moutarde douce dans un pain classique : fondez pour son goût unique et emblématique."
+  },
+  {
+    "id": 9,
+    "title": "Double Cheese",
+    "short_desc": "Double Cheese, double plaisir !",
+    "image": "de-double-cheese.png",
+    "star": "4.2",
+    "body": "Mmm, une délicieuse tranche de bœuf, avec du cheddar, de la salade, des oignons croustillants, une sauce pico de gallo et du guacamole. Tout cela dans un pain aux graines de lin et de sésame. Qu'est-ce que c'est boooooooon ! "
+  },
+  {
+    "id": 10,
+    "title": "Le McFish®",
+    "short_desc": "Il est de retour !",
+    "image": "mcfish.png",
+    "star": "4.1",
+    "body": "Le McFish® gagne à être connu : un pain lisse autour d'un poisson pané délicieusement croustillant et un peu de ketchup. Idéal pour s’initier au poisson !"
+  },
+  {
+    "id": 11,
+    "title": "Le Royal Cheese",
+    "short_desc": "Sa majesté au fromage",
+    "image": "royal-cheese.png",
+    "star": "4.9",
+    "body": "Avec ses deux tranches de cheddar fondantes, sa viande 100% pur bœuf et son pain aux graines de sésame, il vous offre une recette savoureuse et gourmande."
+  },
+  {
+    "id": 12,
+    "title": "Le Royal Crispy Bacon",
+    "short_desc": "Il est de retour !",
+    "image": "royal-crispy-bacon.png",
+    "star": "4.7",
+    "body": "Succombez au Royal Crispy Bacon avec son bacon croustillant, sa viande 100% pur bœuf, une tranche du fromage fondu et une sauce au goût bacon, le tout servi dans un pain aux graines de sésame."
+  },
+  {
+    "id": 13,
+    "title": "Le Royal-O-Fish",
+    "short_desc": "Sa majesté de la mer",
+    "image": "royal-o-fish.png",
+    "star": "4.2",
+    "body": "Fondez pour son poisson pané croustillant, le croquant de ses rondelles de concombre, la fraîcheur de sa salade et sa sauce tartare unique. Entendez-vous l'appel de la mer?"
+  },
+  {
+    "id": 14,
+    "title": "Le Filet-O-Fish®",
+    "short_desc": "Mettez du poisson dans votre menu",
+    "image": "filet-o-fish.png",
+    "star": "3.9",
+    "body": "Fondez pour son poisson pané croustillant et sa sauce légèrement vinaigrée aux oignons et aux câpres, le tout dans un pain cuit vapeur. Laissez-vous prendre dans ses filets !"
+  },
+  {
+    "id": 15,
+    "title": "Le McChicken®",
+    "short_desc": "L'incontournable sandwich au poulet croustillant",
+    "image": "mcchicken.png",
+    "star": "4.8",
+    "body": "Notre spécialité au poulet, sa salade croquante et sa sauce légèrement citronnée font du McChicken® un succès incontesté et surtout incontestable depuis 1980."
+  },
+  {
+    "id": 16,
+    "title": "Le McVeggie",
+    "short_desc": "Il est de retour !",
+    "image": "mcveggie-02.jpg",
+    "star": "4.7",
+    "body": "Un filet veggie pané à base de lait écrémé et de persil, une sauce légèrement citronnée et de la salade croquante. Le tout dans un pain moelleux et irrésistible."
+  },
+  {
+    "id": 17,
+    "title": "Veggie Deluxe",
+    "short_desc": "Il est de retour !",
+    "image": "veggie-deluxe.png",
+    "star": "3.8",
+    "body": "Le Veggie Deluxe: un filet veggie pané à base de lait écrémé, des légumes savoureux tels que du concombre, des oignons, de la tomate et de la salade. Un mix parfait pour l’été qui approche."
+  }
+]
