@@ -1,5 +1,7 @@
 # Flutter Rest API | Client & Serveur
 
+`Client : flutterapp | server : flutter-rest-api`
+
 ![Alt text](/images/loginpage.png "login page")
 ![Alt text](/images/homepage.png "Home page")
 ![Alt text](/images/productspage.png "Products page")
